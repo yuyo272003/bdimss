@@ -1,0 +1,3 @@
+# Ignorar archivos de audio y vídeo pesados
+*.mp3
+*.mp4
